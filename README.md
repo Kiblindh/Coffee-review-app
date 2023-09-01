@@ -14,4 +14,5 @@ ved at kaffesmakingen/kaffeanmeldelsen legges til databasen
 ## Teknologier
 Appen er lagd ved bruk av MySQL og python
 
-[^1]: Prosjektet ble gjort sammen med Julius Stensen og Joel Constantinos
+## Merknad
+Prosjektet ble gjort sammen med Julius Stensen og Joel Constantinos
